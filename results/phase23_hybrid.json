@@ -1,0 +1,19 @@
+{
+  "greedy": {
+    "rate": 0.5632183908045977,
+    "correct": 49,
+    "total": 87
+  },
+  "adapt_10": {
+    "rate": 0.8045977011494253,
+    "correct": 70,
+    "total": 87
+  },
+  "adapt_10+verify": {
+    "rate": 0.0,
+    "correct": 0,
+    "total": 87
+  },
+  "elapsed": 75.83382844924927,
+  "timestamp": "2026-04-27T10:12:54"
+}

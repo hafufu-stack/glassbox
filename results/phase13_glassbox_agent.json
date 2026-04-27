@@ -1,0 +1,16 @@
+{
+  "op_accuracy": 0.6525096525096525,
+  "color1_accuracy": 0.8687258687258688,
+  "color2_accuracy": 0.6640926640926641,
+  "pointer_accuracy": 0.8996138996138996,
+  "full_match": 0.4942084942084942,
+  "route_weights": {
+    "Relation": 0.38503555214470436,
+    "Symmetry": 0.15874204685718035,
+    "Transform": 0.4562223950491491
+  },
+  "model_params": 113983,
+  "n_test": 259,
+  "elapsed": 45.710237979888916,
+  "timestamp": "2026-04-27T09:04:22"
+}

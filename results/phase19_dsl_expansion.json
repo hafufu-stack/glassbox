@@ -1,0 +1,28 @@
+{
+  "old_coverage": 0.02457757296466974,
+  "new_coverage": 0.053763440860215055,
+  "improvement": 0.029185867895545316,
+  "total_pairs": 1302,
+  "old_found": 32,
+  "new_found": 70,
+  "op_counts": {
+    "CROP_CONTENT": 5,
+    "GRAVITY_DOWN": 5,
+    "IDENTITY": 5,
+    "GRAVITY_UP": 3,
+    "ROTATE_180": 6,
+    "MIRROR_H": 5,
+    "TILE_2x1": 1,
+    "FILL": 4,
+    "RECOLOR": 10,
+    "MIRROR_V": 4,
+    "BORDER": 4,
+    "TRANSPOSE": 7,
+    "SWAP": 4,
+    "TILE_1x2": 4,
+    "ROTATE_270": 3
+  },
+  "n_programs": 70,
+  "elapsed": 11.329322576522827,
+  "timestamp": "2026-04-27T09:52:15"
+}

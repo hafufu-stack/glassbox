@@ -1,0 +1,11 @@
+{
+  "n_tested": 43,
+  "n_changed": 27,
+  "n_causal": 17,
+  "change_rate": 0.627906976744186,
+  "causal_rate": 0.3953488372093023,
+  "baseline_correct": 22,
+  "model_params": 1449130,
+  "elapsed": 54.35859799385071,
+  "timestamp": "2026-04-27T08:43:14"
+}

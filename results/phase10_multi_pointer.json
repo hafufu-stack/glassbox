@@ -1,0 +1,9 @@
+{
+  "single_step_match": 0.14728682170542637,
+  "multi_step_match": 0.20930232558139536,
+  "improvement": 0.06201550387596899,
+  "n_test": 258,
+  "model_params": 62812,
+  "elapsed": 34.673789978027344,
+  "timestamp": "2026-04-27T08:56:03"
+}

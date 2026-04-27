@@ -1,0 +1,14 @@
+{
+  "single_op_acc": 0.637065637065637,
+  "single_full": 0.4864864864864865,
+  "set_op_acc": 0.61003861003861,
+  "set_select_acc": 0.3436293436293436,
+  "set_full": 0.15057915057915058,
+  "improvement": -0.3359073359073359,
+  "multi_target_ratio": 0.08288148721920992,
+  "single_params": 36316,
+  "set_params": 28125,
+  "n_test": 259,
+  "elapsed": 28.724164247512817,
+  "timestamp": "2026-04-27T09:46:43"
+}

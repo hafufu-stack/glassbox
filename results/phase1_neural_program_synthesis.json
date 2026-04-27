@@ -1,0 +1,72 @@
+{
+  "syntax_valid_rate": 1.0,
+  "exec_match_rate": 0.47398843930635837,
+  "train_size": 692,
+  "test_size": 173,
+  "model_params": 1449130,
+  "final_loss": 0.00039203127975766125,
+  "examples": [
+    {
+      "true": "RECOLOR 0 5",
+      "predicted": "RECOLOR 0 7",
+      "syntax_valid": true,
+      "exact_match": false
+    },
+    {
+      "true": "RECOLOR 0 5",
+      "predicted": "RECOLOR 0 1",
+      "syntax_valid": true,
+      "exact_match": false
+    },
+    {
+      "true": "COPY 0 0 19 12 0 0",
+      "predicted": "RECOLOR 8 3",
+      "syntax_valid": true,
+      "exact_match": false
+    },
+    {
+      "true": "COPY 0 0 12 14 0 0",
+      "predicted": "COPY 0 0 12 14 0 0",
+      "syntax_valid": true,
+      "exact_match": true
+    },
+    {
+      "true": "COPY 0 0 15 15 0 0",
+      "predicted": "COPY 0 0 15 15 0 0",
+      "syntax_valid": true,
+      "exact_match": true
+    },
+    {
+      "true": "COPY 0 0 10 10 0 0",
+      "predicted": "COPY 0 0 10 10 0 0",
+      "syntax_valid": true,
+      "exact_match": true
+    },
+    {
+      "true": "COPY 0 0 12 12 0 0",
+      "predicted": "RECOLOR 0 3",
+      "syntax_valid": true,
+      "exact_match": false
+    },
+    {
+      "true": "COPY 0 0 13 13 0 0",
+      "predicted": "RECOLOR 0 2",
+      "syntax_valid": true,
+      "exact_match": false
+    },
+    {
+      "true": "COPY 0 0 7 7 0 0",
+      "predicted": "COPY 0 0 7 7 0 0",
+      "syntax_valid": true,
+      "exact_match": true
+    },
+    {
+      "true": "COPY 0 0 3 3 0 0",
+      "predicted": "FILL 9",
+      "syntax_valid": true,
+      "exact_match": false
+    }
+  ],
+  "elapsed": 78.30898833274841,
+  "timestamp": "2026-04-27T08:00:15"
+}

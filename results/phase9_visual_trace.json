@@ -1,0 +1,10 @@
+{
+  "oneshot_em": 0.18497109826589594,
+  "trace_em": 0.0,
+  "improvement": -0.18497109826589594,
+  "avg_steps": 0.0,
+  "n_test": 173,
+  "model_params": 1171114,
+  "elapsed": 268.1446189880371,
+  "timestamp": "2026-04-27T08:47:57"
+}

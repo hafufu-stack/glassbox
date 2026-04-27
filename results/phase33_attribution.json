@@ -1,0 +1,19 @@
+{
+  "total_traced": 87,
+  "correct": 52,
+  "accuracy": 0.5977011494252874,
+  "full_attribution": {
+    "0.5": 0.8275862068965517,
+    "0.7": 0.6091954022988506,
+    "0.9": 0.39080459770114945
+  },
+  "confidence_mean": 0.7549272950353294,
+  "confidence_median": 0.7872480154037476,
+  "anthropic_25pct_comparison": {
+    "0.5": "EXCEEDS",
+    "0.7": "EXCEEDS",
+    "0.9": "EXCEEDS"
+  },
+  "elapsed": 575.0533769130707,
+  "timestamp": "2026-04-27T12:58:28"
+}

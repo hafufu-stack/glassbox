@@ -1,0 +1,32 @@
+{
+  "n_features": 128,
+  "avg_active_per_sample": 31.40015360983103,
+  "total_ever_active": 59,
+  "best_correlations": {
+    "symmetry": {
+      "feature": 105,
+      "r": 0.212
+    },
+    "n_objects": {
+      "feature": 127,
+      "r": 0.6589
+    },
+    "diagonal": {
+      "feature": 22,
+      "r": -0.2101
+    },
+    "border": {
+      "feature": 13,
+      "r": -0.0858
+    }
+  },
+  "novel_features": [
+    18,
+    47,
+    85,
+    55,
+    5
+  ],
+  "elapsed": 21.620575428009033,
+  "timestamp": "2026-04-27T09:46:14"
+}

@@ -1,0 +1,11 @@
+{
+  "exact_match_rate": 0.62,
+  "visual_grounding_rate": 0.88,
+  "n_grounded": 44,
+  "n_grounding_total": 50,
+  "n_correct": 31,
+  "n_total": 50,
+  "model_params": 1449130,
+  "elapsed": 61.97085952758789,
+  "timestamp": "2026-04-27T08:30:27"
+}

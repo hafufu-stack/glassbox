@@ -1,0 +1,17 @@
+{
+  "structured": {
+    "avg_polysemanticity": 39.8125,
+    "monosemantic_frac": 0.0,
+    "sae_sparsity": 0.842015625,
+    "params": 36316
+  },
+  "unstructured": {
+    "avg_polysemanticity": 40.109375,
+    "monosemantic_frac": 0.21875,
+    "sae_sparsity": 0.84859375,
+    "params": 126448
+  },
+  "reduction": 0.0074016361511491935,
+  "elapsed": 958.3453841209412,
+  "timestamp": "2026-04-27T12:48:53"
+}

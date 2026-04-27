@@ -1,0 +1,282 @@
+[
+  {
+    "task": "1cf80156",
+    "program": "CROP_CONTENT"
+  },
+  {
+    "task": "1cf80156",
+    "program": "CROP_CONTENT"
+  },
+  {
+    "task": "1cf80156",
+    "program": "CROP_CONTENT"
+  },
+  {
+    "task": "1e0a9b12",
+    "program": "GRAVITY_DOWN"
+  },
+  {
+    "task": "1e0a9b12",
+    "program": "GRAVITY_DOWN"
+  },
+  {
+    "task": "1e0a9b12",
+    "program": "GRAVITY_DOWN"
+  },
+  {
+    "task": "22eb0ac0",
+    "program": "IDENTITY"
+  },
+  {
+    "task": "253bf280",
+    "program": "IDENTITY"
+  },
+  {
+    "task": "253bf280",
+    "program": "IDENTITY"
+  },
+  {
+    "task": "25ff71a9",
+    "program": "GRAVITY_DOWN"
+  },
+  {
+    "task": "25ff71a9",
+    "program": "GRAVITY_DOWN"
+  },
+  {
+    "task": "3906de3d",
+    "program": "GRAVITY_UP"
+  },
+  {
+    "task": "3906de3d",
+    "program": "GRAVITY_UP"
+  },
+  {
+    "task": "3906de3d",
+    "program": "GRAVITY_UP"
+  },
+  {
+    "task": "3c9b0459",
+    "program": "ROTATE_180"
+  },
+  {
+    "task": "3c9b0459",
+    "program": "ROTATE_180"
+  },
+  {
+    "task": "3c9b0459",
+    "program": "ROTATE_180"
+  },
+  {
+    "task": "3c9b0459",
+    "program": "ROTATE_180"
+  },
+  {
+    "task": "44d8ac46",
+    "program": "IDENTITY"
+  },
+  {
+    "task": "4938f0c2",
+    "program": "IDENTITY"
+  },
+  {
+    "task": "5168d44c",
+    "program": "MIRROR_H"
+  },
+  {
+    "task": "53b68214",
+    "program": "TILE_2x1"
+  },
+  {
+    "task": "5582e5ca",
+    "program": "FILL 4"
+  },
+  {
+    "task": "5582e5ca",
+    "program": "FILL 9"
+  },
+  {
+    "task": "5582e5ca",
+    "program": "FILL 6"
+  },
+  {
+    "task": "6150a2bd",
+    "program": "ROTATE_180"
+  },
+  {
+    "task": "6150a2bd",
+    "program": "ROTATE_180"
+  },
+  {
+    "task": "63613498",
+    "program": "RECOLOR 6 5"
+  },
+  {
+    "task": "63613498",
+    "program": "RECOLOR 9 5"
+  },
+  {
+    "task": "63613498",
+    "program": "RECOLOR 1 5"
+  },
+  {
+    "task": "67a3c6ac",
+    "program": "MIRROR_V"
+  },
+  {
+    "task": "67a3c6ac",
+    "program": "MIRROR_V"
+  },
+  {
+    "task": "67a3c6ac",
+    "program": "MIRROR_V"
+  },
+  {
+    "task": "68b16354",
+    "program": "MIRROR_H"
+  },
+  {
+    "task": "68b16354",
+    "program": "MIRROR_H"
+  },
+  {
+    "task": "68b16354",
+    "program": "MIRROR_H"
+  },
+  {
+    "task": "6f8cd79b",
+    "program": "BORDER 8"
+  },
+  {
+    "task": "6f8cd79b",
+    "program": "BORDER 8"
+  },
+  {
+    "task": "6f8cd79b",
+    "program": "BORDER 8"
+  },
+  {
+    "task": "6f8cd79b",
+    "program": "BORDER 8"
+  },
+  {
+    "task": "74dd1130",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "74dd1130",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "74dd1130",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "74dd1130",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "794b24be",
+    "program": "MIRROR_V ; RECOLOR 1 2"
+  },
+  {
+    "task": "85c4e7cd",
+    "program": "SWAP 2 6"
+  },
+  {
+    "task": "9565186b",
+    "program": "RECOLOR 8 5"
+  },
+  {
+    "task": "963e52fc",
+    "program": "TILE_1x2"
+  },
+  {
+    "task": "9dfd6313",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "9dfd6313",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "9dfd6313",
+    "program": "TRANSPOSE"
+  },
+  {
+    "task": "a416b8f3",
+    "program": "TILE_1x2"
+  },
+  {
+    "task": "a416b8f3",
+    "program": "TILE_1x2"
+  },
+  {
+    "task": "a416b8f3",
+    "program": "TILE_1x2"
+  },
+  {
+    "task": "a740d043",
+    "program": "CROP_CONTENT"
+  },
+  {
+    "task": "a85d4709",
+    "program": "FILL 3"
+  },
+  {
+    "task": "b1948b0a",
+    "program": "RECOLOR 6 2"
+  },
+  {
+    "task": "b1948b0a",
+    "program": "RECOLOR 6 2"
+  },
+  {
+    "task": "b1948b0a",
+    "program": "RECOLOR 6 2"
+  },
+  {
+    "task": "c8f0f002",
+    "program": "RECOLOR 7 5"
+  },
+  {
+    "task": "c8f0f002",
+    "program": "RECOLOR 7 5"
+  },
+  {
+    "task": "c8f0f002",
+    "program": "RECOLOR 7 5"
+  },
+  {
+    "task": "d511f180",
+    "program": "SWAP 5 8"
+  },
+  {
+    "task": "d511f180",
+    "program": "SWAP 5 8"
+  },
+  {
+    "task": "d511f180",
+    "program": "SWAP 5 8"
+  },
+  {
+    "task": "d631b094",
+    "program": "CROP_CONTENT"
+  },
+  {
+    "task": "ed36ccf7",
+    "program": "ROTATE_270"
+  },
+  {
+    "task": "ed36ccf7",
+    "program": "ROTATE_270"
+  },
+  {
+    "task": "ed36ccf7",
+    "program": "MIRROR_H"
+  },
+  {
+    "task": "ed36ccf7",
+    "program": "ROTATE_270"
+  }
+]

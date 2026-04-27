@@ -1,0 +1,21 @@
+{
+  "results": {
+    "Baseline Transformer": {
+      "em": 0.4393063583815029,
+      "params": 1449130,
+      "n_test": 173
+    },
+    "Pointer Network": {
+      "em": 0.528957528957529,
+      "params": 40476,
+      "n_test": 259
+    },
+    "GlassBox Agent": {
+      "em": 0.5675675675675675,
+      "params": 76735,
+      "n_test": 259
+    }
+  },
+  "elapsed": 91.6400306224823,
+  "timestamp": "2026-04-27T09:06:06"
+}

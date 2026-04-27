@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+.ipynb_checkpoints/
+
+# Papers (local only, shared via Zenodo)
+papers/
+
+# Reports (managed separately, not in git)
+reports/
+report/
+
+# Model checkpoints (too large for git)
+**/checkpoint-*/
+**/model_output/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npz
+*.gguf
+
+# Large data files
+*.h5
+*.hdf5
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets & Environment
+.env
+*.env
+.env.*
+.venv/
+secrets/
+
+# Experiment runners (personal orchestration)
+runner*.py
+experiment_control.csv

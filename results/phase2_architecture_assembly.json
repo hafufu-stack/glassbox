@@ -1,0 +1,19 @@
+{
+  "dynamic": {
+    "pa": 0.9403111362457275,
+    "em": 0.0
+  },
+  "fixed": {
+    "pa": 0.7642666817829012,
+    "em": 0.0
+  },
+  "module_usage": {
+    "LocalConv": 0,
+    "GlobalAttn": 24,
+    "GNNRelation": 76
+  },
+  "model_params": 137841,
+  "n_test": 50,
+  "elapsed": 332.04812955856323,
+  "timestamp": "2026-04-27T08:05:48"
+}

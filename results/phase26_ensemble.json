@@ -1,0 +1,16 @@
+{
+  "greedy": 0.675,
+  "adapt": 0.7625,
+  "search": 0.0125,
+  "ensemble": 0.7625,
+  "total_tasks": 80,
+  "greedy_count": 54,
+  "adapt_count": 61,
+  "search_count": 1,
+  "ensemble_count": 61,
+  "only_greedy": 0,
+  "only_adapt": 7,
+  "only_search": 0,
+  "elapsed": 47.71895432472229,
+  "timestamp": "2026-04-27T10:21:20"
+}

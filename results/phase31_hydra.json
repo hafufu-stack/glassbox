@@ -1,0 +1,30 @@
+{
+  "baseline_greedy": 0.6551724137931034,
+  "baseline_adapted": 0.8160919540229885,
+  "ablation_10": {
+    "post_ablation": 0.5938697318007663,
+    "post_adapt": 0.8314176245210728,
+    "hydra_recovery_rate": 3.8750000000000027,
+    "verdict": "FULL REPAIR"
+  },
+  "ablation_20": {
+    "post_ablation": 0.421455938697318,
+    "post_adapt": 0.7509578544061303,
+    "hydra_recovery_rate": 1.4098360655737707,
+    "verdict": "FULL REPAIR"
+  },
+  "ablation_30": {
+    "post_ablation": 0.29501915708812265,
+    "post_adapt": 0.7739463601532567,
+    "hydra_recovery_rate": 1.3297872340425532,
+    "verdict": "FULL REPAIR"
+  },
+  "ablation_50": {
+    "post_ablation": 0.011494252873563218,
+    "post_adapt": 0.6283524904214559,
+    "hydra_recovery_rate": 0.9583333333333334,
+    "verdict": "FULL REPAIR"
+  },
+  "elapsed": 2128.787085533142,
+  "timestamp": "2026-04-27T12:32:54"
+}
