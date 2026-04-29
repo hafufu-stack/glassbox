@@ -1,0 +1,66 @@
+{
+  "adapt_only": 0.7931034482758621,
+  "random_ablate_10": {
+    "match_rate": 0.8505747126436781,
+    "delta": 0.05747126436781602,
+    "verdict": "SUPER-COMP!"
+  },
+  "random_ablate_15": {
+    "match_rate": 0.7586206896551724,
+    "delta": -0.034482758620689724,
+    "verdict": "worse"
+  },
+  "random_ablate_20": {
+    "match_rate": 0.8160919540229885,
+    "delta": 0.02298850574712641,
+    "verdict": "SUPER-COMP!"
+  },
+  "random_ablate_30": {
+    "match_rate": 0.7241379310344828,
+    "delta": -0.06896551724137934,
+    "verdict": "worse"
+  },
+  "strategic_least_10": {
+    "match_rate": 0.8160919540229885,
+    "delta": 0.02298850574712641,
+    "verdict": "SUPER-COMP!"
+  },
+  "strategic_least_15": {
+    "match_rate": 0.8505747126436781,
+    "delta": 0.05747126436781602,
+    "verdict": "SUPER-COMP!"
+  },
+  "strategic_least_20": {
+    "match_rate": 0.8160919540229885,
+    "delta": 0.02298850574712641,
+    "verdict": "SUPER-COMP!"
+  },
+  "strategic_least_30": {
+    "match_rate": 0.8045977011494253,
+    "delta": 0.011494252873563204,
+    "verdict": "SUPER-COMP!"
+  },
+  "strategic_entropy_10": {
+    "match_rate": 0.7816091954022989,
+    "delta": -0.011494252873563204,
+    "verdict": "worse"
+  },
+  "strategic_entropy_15": {
+    "match_rate": 0.8275862068965517,
+    "delta": 0.03448275862068961,
+    "verdict": "SUPER-COMP!"
+  },
+  "strategic_entropy_20": {
+    "match_rate": 0.735632183908046,
+    "delta": -0.05747126436781613,
+    "verdict": "worse"
+  },
+  "strategic_entropy_30": {
+    "match_rate": 0.7586206896551724,
+    "delta": -0.034482758620689724,
+    "verdict": "worse"
+  },
+  "baseline_adapt": 0.7931034482758621,
+  "elapsed": 3956.8254442214966,
+  "timestamp": "2026-04-27T19:09:51"
+}

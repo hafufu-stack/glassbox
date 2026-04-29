@@ -1,0 +1,27 @@
+{
+  "adapt_only": 0.8735632183908046,
+  "ablate_15": 0.8850574712643678,
+  "pipeline_K3": 0.8620689655172413,
+  "pipeline_K5": 0.8620689655172413,
+  "pipeline_stats": {
+    "pipeline_K3": {
+      "base_skip": 48,
+      "adapt_pass": 26,
+      "ensemble_random_2": 2,
+      "adapt_fallback": 3,
+      "ensemble_strategic": 1
+    },
+    "pipeline_K5": {
+      "base_skip": 48,
+      "adapt_pass": 23,
+      "ensemble_random_2": 2,
+      "ensemble_random_1": 1,
+      "ensemble_random_4": 2,
+      "adapt_fallback": 2,
+      "ensemble_strategic": 1,
+      "ensemble_random_3": 1
+    }
+  },
+  "elapsed": 1570.3079116344452,
+  "timestamp": "2026-04-27T20:58:49"
+}

@@ -1,0 +1,14 @@
+{
+  "full_adapt": 0.8275862068965517,
+  "surgical": 0.735632183908046,
+  "entropy_weighted": 0.8275862068965517,
+  "diagnosis": {
+    "avg_confused_heads": 0.225,
+    "op_confused_pct": 0.0,
+    "c1_confused_pct": 0.0125,
+    "c2_confused_pct": 0.2125,
+    "ptr_confused_pct": 0.0
+  },
+  "elapsed": 621.1251564025879,
+  "timestamp": "2026-04-27T17:53:18"
+}

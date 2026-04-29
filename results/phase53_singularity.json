@@ -1,0 +1,15 @@
+{
+  "baseline": 0.7931034482758621,
+  "singularity_50": 0.8045977011494253,
+  "singularity_50_time": 1.846184715628624,
+  "singularity_100": 0.8045977011494253,
+  "singularity_100_time": 4.631483069062233,
+  "singularity_200": 0.8275862068965517,
+  "singularity_200_time": 9.253842675685883,
+  "singularity_500": 0.8390804597701149,
+  "singularity_500_time": 13.386498972773552,
+  "best_budget": 500,
+  "best_rate": 0.8390804597701149,
+  "elapsed": 2864.508735895157,
+  "timestamp": "2026-04-28T16:15:58"
+}

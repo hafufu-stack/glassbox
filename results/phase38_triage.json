@@ -1,0 +1,14 @@
+{
+  "adapt_only": 0.8275862068965517,
+  "fixed_ablate_15": 0.7701149425287356,
+  "demo_triage": 0.7931034482758621,
+  "triage_counts": {
+    "skip": 38,
+    "adapt": 36,
+    "super": 0,
+    "adapt_fallback": 6,
+    "super_fallback": 0
+  },
+  "elapsed": 1140.6955769062042,
+  "timestamp": "2026-04-27T19:49:33"
+}

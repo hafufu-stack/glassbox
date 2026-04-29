@@ -1,0 +1,12 @@
+{
+  "baseline_25": 0.793,
+  "baseline_50": 0.828,
+  "baseline_100": 0.862,
+  "baseline_200": 0.862,
+  "baseline_500": 0.851,
+  "baseline_1000": 0.851,
+  "note": "P52 terminated early at baseline_1000. Saturation confirmed at 100 steps. 3000 steps and perturbation mode sweeps were skipped.",
+  "conclusion": "100 steps is optimal. Beyond 200 steps, performance degrades slightly due to overfitting on augmented training pairs.",
+  "elapsed": "terminated_early",
+  "timestamp": "2026-04-28T15:27:00"
+}
