@@ -1,0 +1,44 @@
+{
+  "seen_no_adapt_mean": 0.6091954022988505,
+  "seen_no_adapt_std": 0.046925090857915276,
+  "seen_no_adapt_all": [
+    0.5517241379310345,
+    0.6091954022988506,
+    0.6666666666666666
+  ],
+  "seen_adapt_mean": 0.8620689655172414,
+  "seen_adapt_std": 0.028155054514749183,
+  "seen_adapt_all": [
+    0.896551724137931,
+    0.8275862068965517,
+    0.8620689655172413
+  ],
+  "unseen_no_adapt_mean": 0.0,
+  "unseen_no_adapt_std": 0.0,
+  "unseen_no_adapt_all": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "unseen_adapt_mean": 0.5,
+  "unseen_adapt_std": 0.0,
+  "unseen_adapt_all": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "unseen_l2_adapt_mean": 0.5,
+  "unseen_l2_adapt_std": 0.0,
+  "unseen_l2_adapt_all": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "held_out_ops": [
+    6,
+    7
+  ],
+  "n_seeds": 3,
+  "elapsed": 2057.538409948349,
+  "timestamp": "2026-04-30T08:17:56"
+}

@@ -1,0 +1,38 @@
+{
+  "glassbox_small_mean": 0.85,
+  "glassbox_small_std": 0.023570226039551608,
+  "glassbox_small_all": [
+    0.8666666666666667,
+    0.8166666666666667,
+    0.8666666666666667
+  ],
+  "glassbox_large_mean": 0.8271604938271605,
+  "glassbox_large_std": 0.06983770678385653,
+  "glassbox_large_all": [
+    0.9259259259259259,
+    0.7777777777777778,
+    0.7777777777777778
+  ],
+  "transformer_small_mean": 0.35555555555555557,
+  "transformer_small_std": 0.043744488188954524,
+  "transformer_small_all": [
+    0.4166666666666667,
+    0.31666666666666665,
+    0.3333333333333333
+  ],
+  "transformer_large_mean": 0.3333333333333333,
+  "transformer_large_std": 0.08000914442478839,
+  "transformer_large_all": [
+    0.37037037037037035,
+    0.2222222222222222,
+    0.4074074074074074
+  ],
+  "glassbox_ood_gap": 0.022839506172839474,
+  "transformer_ood_gap": 0.022222222222222254,
+  "n_seeds": 3,
+  "size_threshold": 15,
+  "n_small_test": 54,
+  "n_large_test": 26,
+  "elapsed": 3801.9145164489746,
+  "timestamp": "2026-04-30T07:08:01"
+}

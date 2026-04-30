@@ -1,0 +1,16 @@
+{
+  "base_embed_op": 0.6200000047683716,
+  "base_embed_color": 0.8899999856948853,
+  "base_l1_op": 0.6899999976158142,
+  "base_l1_color": 0.8999999761581421,
+  "base_l2_op": 0.7799999713897705,
+  "base_l2_color": 0.8799999952316284,
+  "adapted_embed_op": 0.75,
+  "adapted_embed_color": 0.800000011920929,
+  "adapted_l1_op": 0.75,
+  "adapted_l1_color": 0.800000011920929,
+  "adapted_l2_op": 0.75,
+  "adapted_l2_color": 0.800000011920929,
+  "elapsed": 641.6324992179871,
+  "timestamp": "2026-04-30T07:43:37"
+}

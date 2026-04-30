@@ -1,0 +1,33 @@
+{
+  "single_best_mean": 0.8624999999999999,
+  "single_best_std": 0.010206207261596585,
+  "single_best_all": [
+    0.8625,
+    0.875,
+    0.85
+  ],
+  "per_strat_soup_mean": 0.8791666666666668,
+  "per_strat_soup_std": 0.01178511301977575,
+  "per_strat_soup_all": [
+    0.8875,
+    0.8875,
+    0.8625
+  ],
+  "cross_strat_vote_mean": 0.8624999999999999,
+  "cross_strat_vote_std": 0.020412414523193124,
+  "cross_strat_vote_all": [
+    0.8875,
+    0.8625,
+    0.8375
+  ],
+  "full_9way_mean": 0.8791666666666668,
+  "full_9way_std": 0.01178511301977575,
+  "full_9way_all": [
+    0.8875,
+    0.8875,
+    0.8625
+  ],
+  "n_seeds": 3,
+  "elapsed": 9724.818187475204,
+  "timestamp": "2026-04-30T16:37:32"
+}
