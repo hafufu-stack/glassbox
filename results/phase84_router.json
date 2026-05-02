@@ -1,0 +1,15 @@
+{
+  "oracle_acc": 0.975,
+  "router_acc": 0.9375,
+  "uniform_acc": 0.9375,
+  "gap_closed": 0.0,
+  "strategy_distribution": {
+    "iron_wall": 80,
+    "standard": 0,
+    "gambler": 0
+  },
+  "router_train_acc": 0.9625,
+  "n_tasks": 80,
+  "elapsed": 1316.723922252655,
+  "timestamp": "2026-04-30T22:30:18"
+}

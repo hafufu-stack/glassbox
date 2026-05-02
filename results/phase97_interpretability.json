@@ -1,0 +1,30 @@
+{
+  "probes": {
+    "action_from_delta": {
+      "accuracy": 0.025,
+      "chance": 0.08333333333333333
+    },
+    "n_objects_from_state": {
+      "accuracy": 1.0,
+      "n_classes": 10
+    },
+    "success_from_state": {
+      "accuracy": 0.9916666666666667,
+      "base_rate": 0.8366666666666667
+    },
+    "reward_from_state_action": {
+      "r2": 0.6942834446157252
+    },
+    "dynamics_fidelity": {
+      "cos_sim": 0.9864115649461747,
+      "mse": 0.008167941123247147
+    },
+    "pca_variance": [
+      0.347614049911499,
+      0.09570455551147461
+    ]
+  },
+  "n_samples": 600,
+  "elapsed": 667.6820764541626,
+  "timestamp": "2026-05-02T08:37:08"
+}

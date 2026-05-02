@@ -1,0 +1,9 @@
+{
+  "single_strategy": 0.8735632183908046,
+  "demo_loss_selector": 0.8620689655172413,
+  "latent_verifier": 0.896551724137931,
+  "combined": 0.8850574712643678,
+  "avg_confidence": 0.91088493377319,
+  "elapsed": 1467.3566493988037,
+  "timestamp": "2026-05-02T13:31:26"
+}
